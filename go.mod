@@ -29,7 +29,7 @@ require (
 	github.com/oklog/run v1.1.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/parquet-go/parquet-go v0.19.0
-	github.com/polarsignals/frostdb v0.0.0-20231019114304-92877c708395
+	github.com/polarsignals/frostdb v0.0.0-20231103143216-0a6fc101149c
 	github.com/prometheus/client_golang v1.17.0
 	github.com/prometheus/common v0.45.0
 	github.com/prometheus/prometheus v0.47.2
