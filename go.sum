@@ -825,8 +825,8 @@ github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.194/go.mod 
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/kms v1.0.194/go.mod h1:yrBKWhChnDqNz1xuXdSbWXG56XawEq0G5j1lg4VwBD4=
 github.com/tencentyun/cos-go-sdk-v5 v0.7.40 h1:W6vDGKCHe4wBACI1d2UgE6+50sJFhRWU4O8IB2ozzxM=
 github.com/tencentyun/cos-go-sdk-v5 v0.7.40/go.mod h1:4dCEtLHGh8QPxHEkgq+nFaky7yZxQuYwgSJM87icDaw=
-github.com/thanos-io/objstore v0.0.0-20231020175111-b36c30287b88 h1:tmlHl/ICQ1Edo+JkW30wTJJs3MOMgk6q7q0yGfGSt4c=
-github.com/thanos-io/objstore v0.0.0-20231020175111-b36c30287b88/go.mod h1:18hC4aknIrnZcivr1uQJt+nfT7JGecXNbeTQ3GNx5w4=
+github.com/thanos-io/objstore v0.0.0-20231025225615-ff7faac741fb h1:fZuIuOSHsaUOJqvcWlIgt1lACXLF1073TmRuzoByQqw=
+github.com/thanos-io/objstore v0.0.0-20231025225615-ff7faac741fb/go.mod h1:q369VBtseI5OQbK9IsGDfQCfcVu1fsur7ynUcojxnDA=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20170815181823-89b8d40f7ca8/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926/go.mod h1:9ESjWnEqriFuLhtthL60Sar/7RFoluCcXsuvEwTV5KM=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
